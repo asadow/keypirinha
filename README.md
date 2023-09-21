@@ -3,7 +3,7 @@ My Keypirinha Settings
 
 ## Configure Package: FilesCatalog:
 
-[profile/Things]
+```[profile/Things]
 activate = yes
 paths = 
 ### ** does not catch folders 1 level deep inside the path
@@ -16,6 +16,7 @@ paths =
     ${var:KNOWNFOLDER_SCREENSHOTS}\**
 max_depth = 3
 include_dirs = yes
+```
 
 ## Configure Package: Bookmarks
 
