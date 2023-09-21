@@ -5,7 +5,7 @@ My Keypirinha Settings
 
 ```
 # Things can be any name.
-[profile/Things]
+[profile/MyProfile]
 # Activate this profile?
 activate = yes
 # What are the paths?
