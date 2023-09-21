@@ -4,7 +4,6 @@ My Keypirinha Settings
 ## Configure Package: FilesCatalog:
 
 ```
-# Things can be any name.
 [profile/MyProfile]
 # Activate this profile?
 activate = yes
